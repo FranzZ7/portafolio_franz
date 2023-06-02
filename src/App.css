@@ -1,0 +1,154 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+#root {
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+.container{
+  width: 100vw;
+  height: max-content;
+  background: url(https://portal.andina.pe/EDPfotografia3/Thumbnail/2022/09/13/000897826W.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.ctn-title{
+  display: flex;
+  justify-content: center;
+}
+.ctn-title img{
+  width: 350px;
+  height: auto;
+  border-radius: 20px;
+  margin: 60px 20px 20px 20px;
+
+  transition: all 0.5s ease;
+}
+
+.title{
+  margin: 30px;
+  font-size: 15pt;
+  font-family: 'Poppins', sans-serif;
+}
+.title h2{
+  font-size: 34pt;
+  color: rgb(255, 255, 255);
+  font-family: 'Poppins', sans-serif;
+}
+.icon button{
+  background-color: #303030;
+  padding: 20px 25px 20px 25px ;
+  margin-right: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 30px 0px rgba(255, 255, 255, 0.2);
+  border: 0px solid rgb(250, 37, 115);
+  transition: all 0.5s ease;
+}
+
+.icon button span{
+  margin: 10px;
+}
+
+.ctn-cards{
+  border: 0px solid green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: max-content;
+  background-color: rgba(22, 22, 22, 0.4);
+  padding-bottom: 100px;
+}
+.intro{
+  width: 70vw;
+}
+.intro h1{
+  font-family: 'Poppins', sans-serif;
+}
+.intro p{
+  font-size: 18pt;
+}
+.contenedor-card{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.cards-title{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+}
+.cards-title h1{
+  font-size: 30pt;
+}
+.card{
+  border: 0px solid rgb(234, 36, 218);
+  border-radius: 12px;
+  margin: 18px;
+  padding: 40px;
+  width: 400px;
+  background-color: rgba(209, 36, 134, 0.9);
+  color: black;
+  box-shadow: 0px 0px 0px 2px rgb(248, 4, 89);;
+  transition: all 0.5s ease;
+}
+.card:hover{
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 30px 1px rgba(255, 255, 255, 0.3);
+}
+.card h2{
+  font-family: 'Poppins', sans-serif;
+}
+
+.card-s{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: none;
+  border-radius: 12px;
+  background-color: #7c05fad8;
+  width: 65vw;
+  margin: 20px;
+  padding: 20px 50px 20px 50px;
+  height: max-content;
+  box-shadow:0px 0px 0px 0px white;
+  transition: all 0.5s ease;
+}
+
+.card-s h3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 24pt;
+  text-align: center;
+  margin: 10px;
+}
+.card-s-p{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.card-s-p p{
+  width: 250px;
+  margin: 10px;
+}
+
+.card-s button{
+  margin: 30px;
+  padding: 10px;
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 8px;
+  background-color: #01cba1;
+  color: black;
+  font-size: 12pt;
+  transition: all 0.5s ease;
+}
+

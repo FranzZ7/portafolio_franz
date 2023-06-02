@@ -1,0 +1,91 @@
+{
+    "title": "Mi habilidades",
+    "items": [
+      {
+        "titulo": "Mi Información",
+        "nombre": "Franzua Gohan Antezano Rojas",
+        "correo": "fran1005zua@gmail.com",
+        "celular": "+51 994-188-658"
+      },
+      {
+        "titulo": "SOBRE EL CURSO",
+        "op-1": "Enfoque en las tecnologias web modernas",
+        "op-2": "Proyectos practicos",
+        "op-3": "Enfoque en la experiencia del usuario"
+      },
+      {
+        "titulo": "SKILLS",
+        "skll-1": "Desarrollo web",
+        "skll-2": "Conocimientos HTML/CSS/JS",
+        "skll-3": "PHP / LARAVEL"
+      }
+    ],
+    "clases":[
+      {
+        "semana":"Semana 1",
+        "tema":"Fundamentos de las tecnologías web",
+        "definicion":"Conceptos básicos y los elementos clave que sustentan el desarrollo y funcionamiento de las aplicaciones y sitios web.",
+        "procedimientos":"Aplicaciones para Internet, desarrollo front-end, desarrollo back-end Mockups / UX Design",
+        "resultado":"Creacion de portafolio en FIGMA",
+        "url":"https://github.com/FranzZ7/SEMANA01"
+      },
+      {
+        "semana":"Semana 2",
+        "tema":"Lenguaje Marcado de Hipertexto, Hojas de Estilos",
+        "definicion":"La interfaz de usuario, paleta de comandos, terminal de comandos y extensiones para desarrollo",
+        "procedimientos":"Lenguaje marcado de hipertexto, Hojas de estilos y librerías, Trabajo 01: Desarrollo de sitio web.",
+        "resultado":"Practica EMMET",
+        "url":"https://github.com/FranzZ7/semana02"
+      },
+      {
+        "semana":"Semana 3",
+        "tema":"Programación Front-End Javascript",
+        "definicion":"Desarrollo de la interfaz de usuario y la lógica que se ejecuta en el navegador del usuario",
+        "procedimientos":"Números / Strings / Objetos y métodos, Booleanos / Funciones / Funciones flecha, Gráficos",
+        "resultado":"Trabajo 02: Desarrollo de SVG Logo FIS",
+        "url":"https://github.com/FranzZ7/semana03"
+      },
+      {
+        "semana":"Semana 4",
+        "tema":"Manejo del DOM con Javascript",
+        "definicion":"Interactuar y manipular los elementos HTML de una página web mediante el uso de JavaScript",
+        "procedimientos":"Métodos y propiedades, Elementos / Estilos con javascript, Animaciones",
+        "resultado":"Desarrollo de un juego con Javascript",
+        "url":"https://github.com/FranzZ7/semana04"
+      },
+      {
+        "semana":"Semana 5",
+        "tema":"Desarrollo FrontEnd con Framework JS",
+        "definicion":"Un framework de JavaScript proporciona una estructura y conjunto de herramientas predefinidas que facilitan el desarrollo de aplicaciones web.",
+        "procedimientos":"Estructura y operación de Framework – Client Side Rendering, Gestión de dependencias, Herramientas de creación de proyectos, Laboratorio 01A: Instalación del proyecto y configuración de dependencias",
+        "resultado":"Desarrollo basado en componentes JSX / PROPS / CHILDREN",
+        "url":"https://github.com/FranzZ7/semana05"
+      },
+      {
+        "semana":"Semana 6",
+        "tema":"Eventos, Condicionales y Bucles con Framework JS",
+        "definicion":"Utilización de Estilos en Framework JS",
+        "procedimientos":"Eventos, Renderizado condicional / Renderizado iterativo, Formularios, Laboratorio 02A: Eventos y Renderizado Condicional e iterativo",
+        "resultado":"Styles inline / Style Sheets / Styles Modules, Styles components / Framework CSS, Laboratorio 02B: Uso de estilos",
+        "url":"https://github.com/FranzZ7/semana06"
+      }
+    ],
+    "social":[
+        {
+            "red":"Facebook",
+            "icon":"fa-brands fa-square-facebook",
+            "url":"https://www.facebook.com/franzua.antezanorojas/"
+        },
+        {
+            "red":"Instagram",
+            "icon":"icono",
+            "url":"https://www.instagram.com/franz1_to/"
+        },
+        {
+            "red":"GitHub",
+            "icon":"icono",
+            "url":"https://github.com/FranzZ7"     
+        }
+    ]
+  }
+  
